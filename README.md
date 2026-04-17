@@ -29,9 +29,9 @@ The module uses a **flipped classroom model**: students engage with core content
 All three HTML files run directly in any modern browser — no installation required.
 
 **Live links (GitHub Pages):**
-- [Student Digital Lesson](#https://lashaudracox.github.io/stjude-stemm-module/Student_Lesson_WhenControlsBreakDown.html)
-- [Checkpoint Simulator](#) ← replace with your GitHub Pages URL
-- [Student Guided Notes](#) ← replace with your GitHub Pages URL
+- [Student Digital Lesson](https://lashaudracox.github.io/stjude-stemm-module/Student_Lesson_WhenControlsBreakDown.html)
+- [Checkpoint Simulator](https://lashaudracox.github.io/stjude-stemm-module/Cell_Cycle_Checkpoint_Simulator.html)
+- [Student Guided Notes](https://lashaudracox.github.io/stjude-stemm-module/Student_Guided_Notes_Lesson2.html)
 
 To run locally, simply download any `.html` file and open it in Chrome, Firefox, Safari, or Edge.
 
