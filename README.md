@@ -29,7 +29,7 @@ The module uses a **flipped classroom model**: students engage with core content
 All three HTML files run directly in any modern browser — no installation required.
 
 **Live links (GitHub Pages):**
-- [Student Digital Lesson](#) ← replace with your GitHub Pages URL
+- [Student Digital Lesson](#https://lashaudracox.github.io/stjude-stemm-module/Student_Lesson_WhenControlsBreakDown.html)
 - [Checkpoint Simulator](#) ← replace with your GitHub Pages URL
 - [Student Guided Notes](#) ← replace with your GitHub Pages URL
 
