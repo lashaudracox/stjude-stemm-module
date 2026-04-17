@@ -93,7 +93,7 @@ A full design rationale document — explaining the literature basis behind ever
 | | |
 |---|---|
 | **Biomedical Accuracy** | Content is anchored to TP53 mutations and RAS oncogenes — specific, documented areas of St. Jude's pediatric cancer research, not generic examples. |
-| **Research Connection** | Lesson 4 uses [St. Jude Cloud](https://stjudecloud.org) — a real, publicly accessible genomic data portal from pediatric cancer patients. Students interact with actual research infrastructure. |
+| **Research Connection** | Lesson 4 uses [St. Jude Cloud](https://www.stjude.cloud/) — a real, publicly accessible genomic data portal from pediatric cancer patients. Students interact with actual research infrastructure. |
 | **Patient Care Context** | The Maya case study is built on the real biology of ALL — lymphoblasts, bone marrow involvement, tumor suppressor mutations in lymphocyte development. |
 | **Impact Anchor** | St. Jude research has brought the survival rate for pediatric ALL from under 10% (1960s) to over 90% today. This statistic closes the module's motivational loop. |
 
